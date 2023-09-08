@@ -42,3 +42,6 @@ Confirm Order <br>
 ## SETTING UP:
 Use XAMPP 5.6 for this project. You can download it from here... https://www.apachefriends.org/download.html
 
+## CONCLUSION:
+To make out of Zero, which is the seed of Man in the Absolute, the Infinite.
+
